@@ -32,6 +32,10 @@ Here are my main works in **Game Development, Artificial Intelligence, Web Proje
 ---
 
 ## Web Project
+- Delta-Gun-Skin-System
+Repo: https://github.com/QiuQiuMuze/delta-Gun-Skin-System
+  A web app simulating a CS:GO-style skin gacha: login/phone check, wallet (fiat→coins), pity-based opening with wear grades (S/A/B/C), inventory with global serials, 20→1 crafting, and
+  a sortable marketplace.
 - Finance-Tracker  
   Repo: https://github.com/QiuQiuMuze/finance-tracker  
   A website for personal finance. Support add transaction, check income and spending, and accessibility setting.
