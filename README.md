@@ -34,11 +34,23 @@ Here are my main works in **Game Development, Artificial Intelligence, Web Proje
 ## Web Project
 - Delta-Gun-Skin-System
 Repo: https://github.com/QiuQiuMuze/delta-Gun-Skin-System
-  A web app simulating a CS:GO-style skin gacha: login/phone check, wallet (fiat→coins), pity-based opening with wear grades (S/A/B/C), inventory with global serials, 20→1 crafting, and
-  a sortable marketplace.
+  A web app simulating a CS:GO-style skin gacha: login/phone check, wallet (fiat→coins), pity-based opening with wear grades (S/A/B/C), inventory with global serials, 20→1 crafting, and a sortable marketplace.
+  
 - Finance-Tracker  
   Repo: https://github.com/QiuQiuMuze/finance-tracker  
   A website for personal finance. Support add transaction, check income and spending, and accessibility setting.
+  
+- China Stock Market Simulator — FastAPI + Vanilla JS
+  Built a simulated A-share trading system with real-time quotes via WebSocket and Chart.js visualization.
+  Implemented trading hours, price limits, and order matching with SQLite persistence.
+  Includes login/register, portfolio tracking, and full trading workflow.
+  Role: Designed backend APIs and matching engine, and hand-coded live market pages.
+  
+- Futures Market Simulator — Node.js + Chart.js + Vanilla JS
+  Developed a multi-commodity futures trading platform covering hog, gold, liquor, oil, and soybean markets.
+  Features registration/login, real-time price updates, instant order matching, and AI-generated market insights.
+  Implemented backend APIs and data persistence in Node.js, and designed interactive dashboards using Chart.js with distinct color themes per commodity.
+  My role: handled architecture design, trading logic, and AI insight update flow for a complete trading experience.
 
 ---
 
