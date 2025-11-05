@@ -41,12 +41,14 @@ Repo: https://github.com/QiuQiuMuze/delta-Gun-Skin-System
   A website for personal finance. Support add transaction, check income and spending, and accessibility setting.
   
 - China Stock Market Simulator — FastAPI + Vanilla JS
+  Repo: https://github.com/QiuQiuMuze/Stock-Trading-Simulator
   Built a simulated A-share trading system with real-time quotes via WebSocket and Chart.js visualization.
   Implemented trading hours, price limits, and order matching with SQLite persistence.
   Includes login/register, portfolio tracking, and full trading workflow.
   Role: Designed backend APIs and matching engine, and hand-coded live market pages.
   
 - Futures Market Simulator — Node.js + Chart.js + Vanilla JS
+  Repo: https://github.com/QiuQiuMuze/live-hog-futures
   Developed a multi-commodity futures trading platform covering hog, gold, liquor, oil, and soybean markets.
   Features registration/login, real-time price updates, instant order matching, and AI-generated market insights.
   Implemented backend APIs and data persistence in Node.js, and designed interactive dashboards using Chart.js with distinct color themes per commodity.
