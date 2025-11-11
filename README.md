@@ -88,24 +88,3 @@ Repo: https://github.com/QiuQiuMuze/delta-Gun-Skin-System
   Unit tests for course work, to check basic function.
 
 ---
-
-## OSU-CS162 Programming Assignments
-- Programming-Assignment-5 – Recursion and Linked Lists  
-  Repo: https://github.com/OSU-CS162-030-F24/programming-assignment-5-recursion-and-linked-lists-QiuQiuMuze  
-  Practice recursive algorithm and linked list, include create, traverse, and change linked list.
-
-- Programming-Assignment-4 – Hunt-the-Wumpus  
-  Repo: https://github.com/OSU-CS162-030-F24/programming-assignment-4-hunt-the-wumpus-QiuQiuMuze  
-  A C++ text game “Hunt the Wumpus”. Include map, player move, and event logic.
-
-- Programming-Assignment-3 – Pokémon Battle  
-  Repo: https://github.com/OSU-CS162-030-F24/programming-assignment-3-pokemon-battle-QiuQiuMuze  
-  A small Pokémon battle simulation. Practice OOP, class design, and battle logic.
-
-- Programming-Assignment-2 – Wizard Spellbook Catalog  
-  Repo: https://github.com/OSU-CS162-030-F24/programming-assignment-2-wizard-spellbook-catalog-QiuQiuMuze  
-  Build a spellbook catalog system. Support add, search, and sort spells.
-
-- Programming-Assignment-1 – Go-Hooping  
-  Repo: https://github.com/OSU-CS162-030-F24/programming-assignment-1-go-hooping-QiuQiuMuze  
-  A simple program about basketball game. Practice input, output, and control flow.
